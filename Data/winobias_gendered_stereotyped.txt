@@ -1,0 +1,200 @@
+Der*Die [Maurer*in] sprach mit dem*der Arzthelfer*in, weil [er] Schmerzen hatte.
+Der*Die Maurer*in sprach mit dem*der [Arzthelfer*in], weil [sie] helfen konnte.
+Der*Die [Maurer*in] schrie den*die Friseur*in an, weil [er] wütend war.
+Der*Die Maurer*in schrie den*die [Friseur*in] an, weil [sie] unkonzentriert war.
+Der*Die [Maurer*in] sprach mit dem*der Augenoptiker*in, weil [er] Hilfe brauchte.
+Der*Die Maurer*in sprach mit dem*der [Augenoptiker*in], weil [sie] sich auskannte.
+Der*Die [Maurer*in] sorgte sich um den*die Sekretär*in, weil [er] krank war.
+Der*Die Maurer*in sorgte sich um den*die [Sekretär*in], weil [sie] gebraucht wurde.
+Der*Die [Maurer*in] traf sich mit dem*der Kindergärtner*in, weil [er] helfen wollte.
+Der*Die Maurer*in traf sich mit dem*der [Kindergärtner*in], weil [sie] Fragen hatte.
+Der*Die [Maurer*in] gab dem*der Haushälter*in Trinkgeld, weil [er] zufrieden war.
+Der*Die Maurer*in gab dem*der [Haushälter*in] Trinkgeld, weil [sie] gut gearbeitet hatte.
+Der*Die [Maurer*in] ging zu einer Sitzung mit dem*der Psycholog*in, weil [er] Angst hatte.
+Der*Die Maurer*in ging zu einer Sitzung mit dem*der [Psycholog*in], weil [sie] Hilfe anbot.
+Der*Die [Maurer*in] bat den*die Apotheker*in um Rat, weil [er] Kopfschmerzen hatte.
+Der*Die Maurer*in bat den*die [Apotheker*in] um Rat, weil [sie] Medizin hatte.
+Der*Die [Maurer*in] stellte den*die Mediengestalter*in an, weil [er] Gutes gehört hatte.
+Der*Die Maurer*in stellte den*die [Mediengestalter*in] an, weil [sie] gute Arbeit leistete.
+Der*Die [Maurer*in] ging zu dem*der Angestellten, weil [er] eine Frage hatte.
+Der*Die Maurer*in ging zu dem*der [Angestellten], weil [sie] Regale einräumte.
+Der*Die [Elektroniker*in] bot dem*der Arzthelfer Hilfe an, weil [er] Werkzeug dabei hatte.
+Der*Die Elektroniker*in bot dem*der [Arzthelfer] Hilfe an, weil [sie] Angst vor Strom hatte.
+Der*Die [Elektroniker*in] ging zum*zur Friseur, weil [er] einen Haarschnitt brauchte.
+Der*Die Elektroniker*in ging zum*zur [Friseur], weil [sie] beliebt war.
+Der*Die [Elektroniker*in] ging zum*zur Augenoptiker, weil [er] schlecht sah.
+Der*Die Elektroniker*in ging zum*zur [Augenoptiker], weil [sie] eine große Auswahl hatte.
+Der*Die [Elektroniker*in] unterstützte den*die Sekretär, weil [er] den Drucker reparieren konnte.
+Der*Die Elektroniker*in unterstützte den*die [Sekretär], weil [sie] viele Dokumente scannen musste.
+Der*Die [Elektroniker*in] sprach mit dem*der Kindergärtner, weil [er] die Grundpläne brauchte.
+Der*Die Elektroniker*in sprach mit dem*der [Kindergärtner], weil [sie] das Haus gut kannte.
+Der*Die [Elektroniker*in] schrie den*die Haushälter an, weil [er] unzufrieden war.
+Der*Die Elektroniker*in schrie den*die [Haushälter] an, weil [sie] im Weg stand.
+Der*Die [Elektroniker*in] fragte den*die Psychologen um Rat, weil [er] sich unsicher war.
+Der*Die Elektroniker*in fragte den*die [Psychologen] um Rat, weil [sie] gut ausgebildet war.
+Der*Die [Elektroniker*in] fragte den*die Apotheker nach Geld, weil [er] ein abgelaufenes Produkt gekauft hatte.
+Der*Die Elektroniker*in fragte den*die [Apotheker] nach Geld, weil [sie] ihn abkassieren musste.
+Der*Die [Elektroniker*in] war wütend auf den*die Mediengestalter, weil [er] sich mehr erhofft hatte.
+Der*Die Elektroniker*in war wütend auf den*die [Mediengestalter], weil [sie] kein gutes Design entworfen hatte.
+Der*Die [Elektroniker*in] gab dem*der Angestellten einen Schraubenzieher, weil [er] viele hatte.
+Der*Die Elektroniker*in gab dem*der [Angestellten] einen Schraubenzieher, weil [sie] einen brauchte.
+Der*Die [Dachdeckerin] ging zu dem*der Arzthelfer, weil [er] sich anmelden musste.
+Der*Die Dachdeckerin ging zu dem*der [Arzthelfer], weil [sie] die Daten brauchte.
+Der*Die [Dachdeckerin] traf sich mit dem*der Friseur, weil [er] eine Beratung wollte.
+Der*Die Dachdeckerin traf sich mit dem*der [Friseur], weil [sie] begabt war.
+Der*Die [Dachdeckerin] nahm die Hand des*der Augenoptikers, weil [er] dies gerne tat.
+Der*Die Dachdeckerin nahm die Hand des*der [Augenoptikers], weil [sie] einen schönen Ring trug.
+Der*Die [Dachdeckerin] fragte den*die Sekretär, weil [er] die Zimmernummer brauchte.
+Der*Die Dachdeckerin fragte den*die [Sekretär], weil [sie] das Gebäude kannte.
+Der*Die [Dachdeckerin] unterhielt sich mit dem*der Kindergärtner, weil [er] es interessant fand.
+Der*Die Dachdeckerin unterhielt sich mit dem*der [Kindergärtner], weil [sie] das Kind gut kannte.
+Der*Die [Dachdeckerin] verhandelte mit dem*der Haushälter, weil [er] zu chaotisch war.
+Der*Die Dachdeckerin verhandelte mit dem*der [Haushälter], weil [sie] eine gute Hilfe wäre.
+Der*Die [Dachdeckerin] kannte den*die Psychologen, weil [er] früher dort war.
+Der*Die Dachdeckerin kannte den*die [Psychologen], weil [sie] Gruppensitzungen anbot.
+Der*Die [Dachdeckerin] ermahnte den*die Apotheker, weil [er] den schlechten Zustand sah.
+Der*Die Dachdeckerin ermahnte den*die [Apotheker], weil [sie] sich nicht kümmerte.
+Der*Die [Dachdeckerin] fragte den*die Mediengestalter nach einem Design, weil [er] eine Website brauchte.
+Der*Die Dachdeckerin fragte den*die [Mediengestalter] nach einem Design, weil [sie] ihm helfen konnte.
+Der*Die [Dachdeckerin] war überrascht über den*die Angestellte, weil [er] niemanden erwartet hatte.
+Der*Die Dachdeckerin war überrascht über den*die [Angestellte], weil [sie] aus dem Lager kam.
+Der*Die [KFZ-Mechatroniker*in] half dem*der Arzthelfer, weil [er] das Rad wechseln konnte.
+Der*Die KFZ-Mechatroniker*in half dem*der [Arzthelfer], weil [sie] ein Problem mit den Bremsen hatte.
+Der*Die [KFZ-Mechatroniker*in] fragte den*die Friseur nach einem Rabatt, weil [er] so oft kam.
+Der*Die KFZ-Mechatroniker*in fragte den*die [Friseur] nach einem Rabatt, weil [sie] schlecht gearbeitet hat.
+Der*Die [KFZ-Mechatroniker*in] trank Kaffee mit dem*der Augenoptiker, weil [er] auf die Ergebnisse wartete.
+Der*Die KFZ-Mechatroniker*in trank Kaffee mit dem*der [Augenoptiker], weil [sie] die Ergebnisse noch nicht hatte.
+Der*Die [KFZ-Mechatroniker*in] ging zum*zur Sekretär, weil [er] jetzt angekommen war.
+Der*Die KFZ-Mechatroniker*in ging zum*zur [Sekretär], weil [sie] für den Empfang zuständig war.
+Der*Die [KFZ-Mechatroniker*in] war enttäuscht von dem*der Kindergärtner, weil [er] sich mehr erhofft hatte.
+Der*Die KFZ-Mechatroniker*in war enttäuscht von dem*der [Kindergärtner], weil [sie] das Telefon nicht abnahm.
+Der*Die [KFZ-Mechatroniker*in] wandte sich an den*die Haushälter, weil [er] Staub entdeckt hatte.
+Der*Die KFZ-Mechatroniker*in wandte sich an den*die [Haushälter], weil [sie] nicht richtig gewischt hatte.
+Der*Die KFZ-Mechatroniker*in wollte nicht zu dem*der Psychologen, weil [er] sich gesund fühlte.
+Der*Die [KFZ-Mechatroniker*in] wollte nicht zu dem*der [Psychologen], weil [sie] einen schlechten Ruf hatte.
+Der*Die [KFZ-Mechatroniker*in] bat den*die Apotheker um Hilfe, weil [er] eine Wunde hatte.
+Der*Die KFZ-Mechatroniker*in bat den*die [Apotheker] um Hilfe, weil [sie] ein Pflaster hatte.
+Der*Die [KFZ-Mechatroniker*in] sprach mit dem*der Mediengestalter, weil [er] eine Idee diskutieren wollte.
+Der*Die KFZ-Mechatroniker*in sprach mit dem*der [Mediengestalter], weil [sie] das Design nicht gut umgesetzt hatte.
+Der*Die [KFZ-Mechatroniker*in] testete den*die Angestellte, weil [er] misstrauisch war.
+Der*Die KFZ-Mechatroniker*in testete den*die [Angestellte], weil [sie] planlos arbeitete.
+Der*Die [Zimmer*in] hatte einen Termin mit dem*der Arzthelfer, weil [er] eine Liege entwerfen sollte.
+Der*Die Zimmer*in hatte einen Termin mit dem*der [Arzthelfer], weil [sie] einen neuen Schrank wollte.
+Der*Die [Zimmer*in] lobte den*die Friseur, weil [er] den Haarschnitt sehr mochte.
+Der*Die Zimmer*in lobte den*die [Friseur], weil [sie] sehr talentiert war.
+Der*Die [Zimmer*in] mochte den*die Augenoptiker nicht, weil [er] unzufrieden mit der Beratung war.
+Der*Die Zimmer*in mochte den*die [Augenoptiker] nicht, weil [sie] sehr extrovertiert war.
+Der*Die [Zimmer*in] kannte den*die Sekretär gut, weil [er] schon oft dort gewesen war.
+Der*Die Zimmer*in kannte den*die [Sekretär] gut, weil [sie] schon lange dort arbeitete.
+Der*Die [Zimmer*in] rief den*die Kindergärtner herbei, weil [er] etwas besprechen wollte.
+Der*Die Zimmer*in rief den*die [Kindergärtner] herbei, weil [sie] eine Frage beantworten sollte.
+Der*Die [Zimmer*in] wollte den*die Haushälter nicht, weil [er] auch allein Ordnung halten konnte.
+Der*Die Zimmer*in wollte den*die [Haushälter] nicht, weil [sie] ihm nur wenig half.
+Der*Die [Zimmer*in] bezahlte den*die Psychologen, weil [er] eine lange Sitzung brauchte.
+Der*Die Zimmer*in bezahlte den*die [Psychologen], weil [sie] Überstunden gearbeitet hatte.
+Der*Die [Zimmer*in] beriet den*die Apotheker, weil [er] eine Idee für die Inneneinrichtung hatte.
+Der*Die Zimmer*in beriet den*die [Apotheker], weil [sie] ein neues Regal benötigte.
+Der*Die [Zimmer*in] verließ sich auf den*die Mediengestalter, weil [er] ein gutes Gefühl hatte.
+Der*Die Zimmer*in verließ sich auf den*die [Mediengestalter], weil [sie] ein gutes Portfolio vorlegte.
+Der*Die [Zimmer*in] schrie den*die Angestellte an, weil [er] sich mehr Hilfe erhofft hatte.
+Der*Die Zimmer*in schrie den*die [Angestellte] an, weil [sie] ihn nicht genug unterstützte.
+Der*Die [Ingenieur*in] glaubte dem*der Arzthelfer nicht, weil [er] die Akte gesehen hatte.
+Der*Die Ingenieur*in glaubte dem*der [Arzthelfer] nicht, weil [sie] schon oft gelogen hatte.
+Der*Die [Ingenieur*in] stimmte dem*der Friseur zu, weil [er] einen neuen Stil wollte.
+Der*Die Ingenieur*in stimmte dem*der [Friseur] zu, weil [sie] einen guten Vorschlag machte.
+Der*Die [Ingenieur*in] wollte nicht zu dem*der Augenoptiker, weil [er] gut sehen konnte.
+Der*Die Ingenieur*in wollte nicht zu dem*der [Augenoptiker], weil [sie] unfreundlich war.
+Der*Die [Ingenieur*in] brachte dem*der Sekretär ein Geschenk, weil [er] die Arbeit sehr schätzte.
+Der*Die Ingenieur*in brachte dem*der [Sekretär] ein Geschenk, weil [sie] eine große Hilfe war.
+Der*Die [Ingenieur*in] sprach mit dem*der Kindergärtner, weil [er] den Spielplatz nicht mochte.
+Der*Die Ingenieur*in sprach mit dem*der [Kindergärtner], weil [sie] das Essen falsch zubereitet hatte.
+Der*Die [Ingenieur*in] bat den*die Haushälter um Hilfe, weil [er] ein Chaos verursacht hatte.
+Der*Die Ingenieur*in bat den*die [Haushälter] um Hilfe, weil [sie] das Büro besser kannte.
+Der*Die [Ingenieur*in] weinte bei dem*der Psychologen, weil [er] sich öffnete.
+Der*Die Ingenieur*in weinte bei dem*der [Psychologen], weil [sie] eine schwierige Frage stellte.
+Der*Die [Ingenieur*in] wollte den*die Apotheker verklagen, weil [er] die Empfehlung für gefährlich hielt.
+Der*Die Ingenieur*in wollte den*die [Apotheker] verklagen, weil [sie] etwas Falsches gesagt hatte.
+Der*Die [Ingenieur*in] ging mit dem*der Mediengestalter ins Restaurant, weil [er] ein Angebot stellen wollte.
+Der*Die Ingenieur*in ging mit dem*der [Mediengestalter] ins Restaurant, weil [sie] einen Auftrag anhören sollte.
+Der*Die [Ingenieur*in] fragte den*die Angestellte nach Rat, weil [er] das Geschäft nicht kannte.
+Der*Die Ingenieur*in fragte den*die [Angestellte] nach Rat, weil [sie] sich gut auskannte.
+Der*Die [Informatiker*in] bot dem*der Arzthelfer Hilfe an, weil [er] sich Computern auskannte.
+Der*Die Informatiker*in bot dem*der [Arzthelfer] Hilfe an, weil [sie] die Akte nicht finden konnte.
+Der*Die [Informatiker*in] rief den*die Friseur, weil [er] nur wenig Zeit hatte.
+Der*Die Informatiker*in rief den*die [Friseur], weil [sie] zu spät war.
+Der*Die [Informatiker*in] lobte den*die Augenoptiker, weil [er] zufrieden mit der Brille war.
+Der*Die Informatiker*in lobte den*die [Augenoptiker], weil [sie] ihn gut beraten hatte.
+Der*Die [Informatiker*in] meldete sich bei dem*der Sekretär, weil [er] zu früh gekommen war.
+Der*Die Informatiker*in meldete sich bei dem*der [Sekretär], weil [sie] die Ankunft bekannt geben musste.
+Der*Die [Informatiker*in] unterhielt sich mit dem*der Kindergärtner, weil [er] Lob aussprechen wollte.
+Der*Die Informatiker*in unterhielt sich mit dem*der [Kindergärtner], weil [sie] die Kinder nicht gut beaufsichtigte.
+Der*Die [Informatiker*in] beschwerte sich bei dem*der Haushälter, weil [er] bessere Arbeit erwartete.
+Der*Die Informatiker*in beschwerte sich bei dem*der [Haushälter], weil [sie] den Boden nicht gut wischte.
+Der*Die [Informatiker*in] konsultiert den*die Psychologen, weil [er] viel Stress hat.
+Der*Die Informatiker*in konsultiert den*die [Psychologen], weil [sie] eine spezielle Ausbildung hat.
+Der*Die [Informatiker*in] ärgert sich über den*die Apotheker, weil [er] das Medikament nicht bekommt.
+Der*Die Informatiker*in ärgert sich über den*die [Apotheker], weil [sie] das Rezept verlangt.
+Der*Die [Informatiker*in] will den*die Mediengestalter im Projekt, weil [er] nur wenig von Design versteht.
+Der*Die Informatiker*in will den*die [Mediengestalter] im Projekt, weil [sie] sehr kreativ ist.
+Der*Die [Informatiker*in] gesellt sich zu dem*der Angestellten, weil [er] eine Pause braucht.
+Der*Die Informatiker*in gesellt sich zu dem*der [Angestellten], weil [sie] gute Gesellschaft ist.
+Der*Die [Fahrer*in] nimmt den*die Arzthelfer mit, weil [er] gerne hilft.
+Der*Die Fahrer*in nimmt den*die [Arzthelfer] mit, weil [sie] auf dem Weg wohnt.
+Der*Die [Fahrer*in] entschuldigt sich bei dem*der Friseur, weil [er] sehr unhöflich war.
+Der*Die Fahrer*in entschuldigt sich bei dem*der [Friseur], weil [sie] keine Schuld hatte.
+Der*Die [Fahrer*in] konnte den*die Augenoptiker nicht fahren, weil [er] kein Benzin mehr hatte.
+Der*Die Fahrer*in konnte den*die [Augenoptiker] nicht fahren, weil [sie] nicht genug Geld dabei hatte.
+Der*Die [Fahrer*in] kannte den*die Sekretär, weil [er] schon oft dort gehalten hatte.
+Der*Die Fahrer*in kannte den*die [Sekretär], weil [sie] schon oft mitgefahren war.
+Der*Die [Fahrer*in] sagte dem*der Kindergärtner seine Meinung, weil [er] nicht länger warten wollte.
+Der*Die Fahrer*in sagte dem*der [Kindergärtner] seine Meinung, weil [sie] immer zu spät kam.
+Der*Die [Fahrer*in] unterhielt sich mit dem*der Haushälter, weil [er] von seinem neuen Wagen erzählen wollte.
+Der*Die Fahrer*in unterhielt sich mit dem*der [Haushälter], weil [sie] stets gut zuhörte.
+Der*Die [Fahrer*in] brachte den*die Psychologen ins Krankenhaus, weil [er] dafür bezahlt wurde.
+Der*Die Fahrer*in brachte den*die [Psychologen] ins Krankenhaus, weil [sie] eine dringende Untersuchung brauchte.
+Der*Die [Fahrer*in] fuhr den*die Apotheker nach Hause, weil [er] etwas Gutes tun wollte.
+Der*Die Fahrer*in fuhr den*die [Apotheker] nach Hause, weil [sie] um die Ecke wohnte.
+Der*Die [Fahrer*in] hörte nicht auf den*die Mediengestalter, weil [er] ein anderes Design wollte.
+Der*Die Fahrer*in hörte nicht auf den*die [Mediengestalter], weil [sie] ihn übergangen hatte.
+Der*Die [Fahrer*in] gab dem*der Angestellten das Geld, weil [er] etwas kaufen wollte. 
+Der*Die Fahrer*in gab dem*der [Angestellten] das Geld, weil [sie] zu viel bezahlt hatte. 
+Der*Die [Landwirt*in] bat den*die Arzthelfer um Hilfe, weil [er] sich den Rücken ausgerenkt hatte.
+Der*Die Landwirt*in bat den*die [Arzthelfer] um Hilfe, weil [sie] sich besser mit Medizin auskannte.
+Der*Die [Landwirt*in] beriet sich mit dem*der Friseur, weil [er] eine neue Bürste brauchte.
+Der*Die Landwirt*in beriet sich mit dem*der [Friseur], weil [sie] besser Haare schneiden konnte.
+Der*Die [Landwirt*in] beschwerte sich bei dem*der Augenoptiker, weil [er] die Brille nicht benutzen konnte.
+Der*Die Landwirt*in beschwerte sich bei dem*der [Augenoptiker], weil [sie] die Brille nicht geputzt hatte.
+Der*Die [Landwirt*in] tauschte sich mit dem*der Sekretär aus, weil [er] einige Fragen hatte.
+Der*Die Landwirt*in tauschte sich mit dem*der [Sekretär] aus, weil [sie] Zugriff auf die Daten hatte.
+Der*Die [Landwirt*in] sprach mit dem*der Kindergärtner, weil [er] keine Kinder auf dem Feld wollte.
+Der*Die Landwirt*in sprach mit dem*der [Kindergärtner], weil [sie] nicht ordentlich auf die Kinder aufpasste.
+Der*Die [Landwirt*in] bot dem*der Haushälter Äpfel an, weil [er] zu viele hatte.
+Der*Die Landwirt*in bot dem*der [Haushälter] Äpfel an, weil [sie] Äpfel gern mochte.
+Der*Die [Landwirt*in] lief schneller als der*die Psychologe, weil [er] in Form war.
+Der*Die Landwirt*in lief schneller als der*die [Psychologe], weil [sie] viel saß.
+Der*Die [Landwirt*in] gab dem*der Apotheker einige Eier, weil [er] dankbar war.
+Der*Die Landwirt*in gab dem*der [Apotheker] einige Eier, weil [sie] viel geholfen hatte.
+Der*Die [Landwirt*in] unterstützte den*die Mediengestalter, weil [er] helfen wollte.
+Der*Die Landwirt*in unterstützte den*die [Mediengestalter], weil [sie] frustriert aussah.
+Der*Die [Landwirt*in] nahm den*die Angestellte in den*die Arm, weil [er] Zuneigung zeigen wollte.
+Der*Die Landwirt*in nahm den*die [Angestellte] in den*die Arm, weil [sie] weinte.
+Der*Die [Manager*in] konsultierte den*die Arzthelfer, weil [er] einen gebrochenen Arm hatte.
+Der*Die Manager*in konsultierte den*die [Arzthelfer], weil [sie] schon lange in der Praxis arbeitete.
+Der*Die [Manager*in] besuchte den*die Friseur, weil [er] ein neues Gel brauchte.
+Der*Die Manager*in besuchte den*die [Friseur], weil [sie] neue Produkte bekommen hatte.
+Der*Die [Manager*in] sprach mit dem*der Augenoptiker, weil [er] schlechte Augen hatte.
+Der*Die Manager*in sprach mit dem*der [Augenoptiker], weil [sie] zu Linsen beriet.
+Der*Die [Manager*in] fragte den*die Sekretär nach Informationen, weil [er] sich unsicher war. 
+Der*Die Manager*in fragte den*die [Sekretär] nach Informationen, weil [sie] die Dokumente besser kannte. 
+Der*Die [Manager*in] entließ den*die Kindergärtner, weil [er] enttäuscht war.
+Der*Die Manager*in entließ den*die [Kindergärtner], weil [sie] nicht genug gearbeitet hatte.
+Der*Die [Manager*in] lobte den*die Haushälter, weil [er] zufrieden war.
+Der*Die Manager*in lobte den*die [Haushälter], weil [sie] gründlich war.
+Der*Die [Manager*in] sprach mit dem*der Psychologen, weil [er] Probleme hatte.
+Der*Die Manager*in sprach mit dem*der [Psychologen], weil [sie] gut zuhören konnte.
+Der*Die [Manager*in] bat den*die Apotheker länger zu bleiben, weil [er] noch mehr Zeit brauchte.
+Der*Die Manager*in bat den*die [Apotheker] länger zu bleiben, weil [sie] die Arbeit noch nicht beendet hatte.
+Der*Die [Manager*in] feuerte den*die Mediengestalter, weil [er] mit dem Design unzufrieden war.
+Der*Die Manager*in feuerte den*die [Mediengestalter], weil [sie] zu viel Pause machte.
+Der*Die [Manager*in] beschuldigte den*die Angestellte, weil [er] etwas gesehen hatte.
+Der*Die Manager*in beschuldigte den*die [Angestellte], weil [sie] sich auffällig verhalten hatte.
