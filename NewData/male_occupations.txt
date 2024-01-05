@@ -1,0 +1,10 @@
+Maurer
+Elektroniker
+Dachdecker
+KFZ-Mechatroniker
+Zimmer
+Ingenieur
+Informatiker
+Fahrer
+Landwirt
+Manager

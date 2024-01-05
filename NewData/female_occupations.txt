@@ -1,0 +1,10 @@
+Arzthelfer
+Friseur
+Augenoptiker
+Sekretär
+Kindergärtner
+Haushälter
+Psycholog
+Apotheker
+Mediengestalter
+Angestellte
