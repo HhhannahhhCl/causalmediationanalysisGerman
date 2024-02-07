@@ -12,7 +12,11 @@ The results are saved in json files and provide the unfiltered and filtered resu
 
 ## Bibliography
 Minixhofer, B. (2020, 12). GerPT2: German large and small versions of GPT2. Retrieved from https://github.com/bminixhofer/gerpt2 ([Online; accessed 09-January-2024]) 
+
 Schweter, S. (2021a, August). German gpt-2 model. Retrieved from https://github.com/stefan-it/german-gpt2 ([Online; accessed 09-January-2024]) 
+
 Schweter, S. (2021b, September). German gpt-2 model. Retrieved from https://huggingface.co/stefan-it/german-gpt2-larger ([Online; accessed 09-January-2024])
+
 Vig, J., Gehrmann, S., Belinkov, Y., Qian, S., Nevo, D., Sakenis, S., . . . Shieber, S. (2020). Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias.
+
 Zhao, J., Wang, T., Yatskar, M., Ordonez, V., & Chang, K.-W. (2018, June). Gender bias in coreference resolution: Evaluation and debiasing methods. In Proceedings of the 2018 conference of the north American chapter of the association for computational linguistics: Human language technologies, volume 2 (short papers) (pp. 15–20). New Orleans, Louisiana: Association for Computational Linguistics. 
