@@ -10,7 +10,7 @@ The code repository is taken from Vig et al. (2020) and adjusted to newer versio
 ## Results
 The results are saved in json files and provide the unfiltered and filtered results for German GPT-2 (Schweter 2021a), German GPT-2 larger (Schweter 2021b), GerPT-2, and GerPT-2 large (Minixhofer 2020). 
 
-Bibliography:
+## Bibliography
 Minixhofer, B. (2020, 12). GerPT2: German large and small versions of GPT2. Retrieved from https://github.com/bminixhofer/gerpt2 ([Online; accessed 09-January-2024]) 
 Schweter, S. (2021a, August). German gpt-2 model. Retrieved from https://github.com/stefan-it/german-gpt2 ([Online; accessed 09-January-2024]) 
 Schweter, S. (2021b, September). German gpt-2 model. Retrieved from https://huggingface.co/stefan-it/german-gpt2-larger ([Online; accessed 09-January-2024])
