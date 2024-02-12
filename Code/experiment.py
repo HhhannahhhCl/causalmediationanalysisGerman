@@ -309,11 +309,9 @@ class Model():
         else:
             raise ValueError(f"Invalid effect: {effect}")
         batch = input.clone().detach().unsqueeze(0).to(self.device)
-        attention_override = self.model(batch)[-1] # tuple of 12 layers
+        attention_override = self.model(batch)[-1] # tuple of 12 layers; attention of either x_alt (NIE) or x (NDE) for whole model, used below
         # each element (batch_size, num_heads in layer (12), seq_len, seq_len)
         # print(attention_override)
-        # PROBLEM: CONSISTS OF 12 X TWO TENSORS OF SHAPE (BATCH, NUMHEADS, SEQLEN, DONTKNOW) IN TUPLE
-        # should be 12 x tensors of shape (batch, numheads, seq_len, seq_len)
 
         batch_size = 1
         seq_len = len(x)
@@ -328,18 +326,20 @@ class Model():
             candidate2_probs_layer = torch.zeros(self.num_layers)
 
             if effect == 'indirect':
-                context = x
+                context = x # Use context of x while having attention for x_alt
             else:
-                context = x_alt
+                context = x_alt # Use context of x_alt while having attention of x
 
-            # Intervene at every layer and head by overlaying attention induced by x_alt
+            # Intervene at every layer and head by overlaying attention induced by x_alt (NIE) or x (NDE)
             model_attn_override_data = [] # Save layer interventions for model-level intervention later
+            # level of layers
             for layer in range(self.num_layers):
                 layer_attention_override = attention_override[layer] # torch.tensor(np.array(attention_override[layer]))
                 print(type(layer_attention_override), np.shape(layer_attention_override))
                 #print(type(attention_override), np.shape(attention_override),
                 #    type(torch.tensor(np.array(layer_attention_override))), np.shape(torch.tensor(np.array(layer_attention_override))))
-                attention_override_mask = torch.ones_like(layer_attention_override, dtype=torch.uint8)
+                # activate masking all heads in layer by setting value to 1
+                attention_override_mask = torch.ones_like(layer_attention_override, dtype=torch.uint8) 
                 layer_attn_override_data = [{
                     'layer': layer,
                     'attention_override': layer_attention_override, # attn_override; shape: (2, 1, 12, 11, 64)
@@ -350,7 +350,8 @@ class Model():
                     outputs=intervention.candidates_tok,
                     attn_override_data = layer_attn_override_data)
                 model_attn_override_data.extend(layer_attn_override_data)
-                for head in range(self.num_heads):
+                # level of heads
+                for head in range(self.num_heads): 
                     attention_override_mask = torch.zeros_like(layer_attention_override, dtype=torch.uint8)
                     attention_override_mask[0][head] = 1 # Set mask to 1 for single head only
                     head_attn_override_data = [{

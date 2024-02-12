@@ -11,15 +11,14 @@ sns.set()
 import pandas as pd
 import os
 
-def main():
+def main(dataset, filter):
 
-    models = ['distilgpt2', 'gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl']
+    models = ['gpt2dbmdz', 'gpt2larger', 'gpt2gerpt2', 'gpt2gerpt2large']
     model_to_name = {
-        'distilgpt2': 'distil',
-        'gpt2': 'small',
-        'gpt2-medium': 'medium',
-        'gpt2-large': 'large',
-        'gpt2-xl': 'xl'
+        'gpt2dbmdz': 'German GPT-2',
+        'gpt2larger': 'German GPT-2 larger',
+        'gpt2gerpt2': 'GerPT-2',
+        'gpt2gerpt2large': 'GerPT-2 large'
     }
 
     sns.set_context("paper")
@@ -28,10 +27,6 @@ def main():
 
     palette = sns.color_palette()
 
-    filter = 'filtered'
-    split = 'dev'
-    dataset = 'winobias'
-
     te = []
     nde_all = []
     nie_all = []
@@ -39,7 +34,7 @@ def main():
     model_names = []
 
     for model_version in models:
-        fname = f"{dataset}_data/attention_intervention_{model_version}_{filter}_{split}.json"
+        fname = f"results/attention_intervention_german_{model_version}_{dataset}_{filter}.json"
         with open(fname) as f:
             data = json.load(f)
         df = pd.DataFrame(data['results'])
@@ -53,7 +48,7 @@ def main():
         model_names.append(model_to_name[model_version])
 
     # Plot stacked bar chart
-    plt.figure(num=1, figsize=(3, 1.2))
+    plt.figure(num=1, figsize=(5, 3))
     width = .29
     inds = np.arange(len(models))
     spacing = 0.015
@@ -82,7 +77,7 @@ def main():
     path = 'results/attention_intervention/'
     if not os.path.exists(path):
         os.makedirs(path)
-    plt.savefig(f'{path}effects.pdf', format='pdf')
+    plt.savefig(f'{path}{dataset}_{filter}_effects.pdf', format='pdf')
     plt.close()
 
 if __name__ == '__main__':

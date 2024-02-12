@@ -34,6 +34,11 @@ def save_fig(prompts, heads, model, tokenizer, fname, device, highlight_indices=
         seq = tokenizer.convert_ids_to_tokens(input_)
         print(seq)
         seq = [t.replace('Ġ', '') for t in seq]
+        seq = [t.replace('Ã¤', 'ä') for t in seq]
+        seq = [t.replace('ÃĦ', 'Ä') for t in seq]
+        seq = [t.replace('ÃŁ', 'ß') for t in seq]
+        seq = [t.replace('Ã¶', 'ö') for t in seq]
+        seq = [t.replace('Ã¼', 'ü') for t in seq]
         seqs.append(seq)
         seq_len = len(input_)
         attention = torch.stack(attention)

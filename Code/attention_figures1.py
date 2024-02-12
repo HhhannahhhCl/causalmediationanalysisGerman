@@ -51,7 +51,7 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
 
     # Plot stacked bar chart
     palette = sns.color_palette()#('muted')
-    plt.figure(num=1, figsize=(5, 2))
+    plt.figure(num=1, figsize=(5, 2)) 
     topk_direct = []
     topk_indirect = []
     labels = []
@@ -72,7 +72,7 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
     plt.legend((p3, p2[0], p1[0]), ('Total', 'Direct', 'Indirect'), loc='upper right', fontsize=11,
                bbox_to_anchor=(.99, 0.90))
     sns.despine()
-    path = 'results/attention_intervention/stacked_bar_charts'
+    path = 'results_test/attention_intervention/stacked_bar_charts'
     if not os.path.exists(path):
         os.makedirs(path)
     plt.savefig(f'{path}/{source}_{model_version}_{filter}_'
@@ -89,7 +89,7 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
         ax = sns.heatmap(mean_effect, rasterized=True, annot=annot, annot_kws={"size": 9}, fmt=".2f", square=True)
         ax.set(xlabel='Head', ylabel='Layer', title=f'Mean {effect_type.capitalize()} Effect')
         plt.figure(num=1, figsize=(7, 5))
-        path = f'results/attention_intervention/heat_maps_{effect_type}'
+        path = f'results_test/attention_intervention/heat_maps_{effect_type}'
         if not os.path.exists(path):
             os.makedirs(path)
         plt.savefig(f'{path}/{source}_{model_version}_{filter}_'
@@ -105,7 +105,7 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
         plt.figure(num=1, figsize=(5, 5))
         ax = sns.barplot(x=mean_effect, y=list(range(n_layers)), orient="h", color="#4472C4")
         ax.set(ylabel='Layer', title=f'Mean {effect_type.capitalize()} Effect')
-        path = f'results/attention_intervention/layer_{effect_type}'
+        path = f'results_test/attention_intervention/layer_{effect_type}'
         if not os.path.exists(path):
             os.makedirs(path)
         plt.savefig(f'{path}/{source}_{model_version}_{filter}_'
@@ -149,13 +149,13 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
             heatmap.tick_params(axis='y', pad=1, length=2)
             heatmap.yaxis.labelpad = 2
             heatmap.invert_yaxis()
-            if model_version != 'gpt2-xl':
-                for i, label in enumerate(heatmap.xaxis.get_ticklabels()):
-                    if i%2 == 1:
-                        label.set_visible(False)
-                for i, label in enumerate(heatmap.yaxis.get_ticklabels()):
-                    if i%2 == 1:
-                        label.set_visible(False)
+            #if model_version != 'gpt2-xl':
+            #    for i, label in enumerate(heatmap.xaxis.get_ticklabels()):
+            #        if i%2 == 1:
+            #            label.set_visible(False)
+            #    for i, label in enumerate(heatmap.yaxis.get_ticklabels()):
+            #        if i%2 == 1:
+            #            label.set_visible(False)
             if do_sort:
                 heatmap.axes.get_xaxis().set_ticks([])
             else:
@@ -186,8 +186,9 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
                 spine.set_visible(True)
             ax2.set_title('         Layer Effect', size=9)
             bp = sns.barplot(x=effect_layer, ax=ax2, y=list(range(n_layers)), color="#3D4FC4", orient="h")
-            plt.setp(bp.get_xticklabels(), fontsize=7)
-            bp.tick_params(axis='x', pad=1, length=3)
+            #bp.set_xticklabels([-0.025,0,0.025])
+            plt.setp(bp.get_xticklabels(), fontsize=7) #7
+            bp.tick_params(axis='x', pad=1, length=3) 
             ax2.invert_yaxis()
             ax2.set_yticklabels([])
             ax2.spines['top'].set_visible(False)
@@ -195,7 +196,7 @@ def save_figures(data, source, model_version, filter, suffix, k=10):
             ax2.spines['left'].set_visible(False)
             ax2.xaxis.set_ticks_position('bottom')
             ax2.axvline(0, linewidth=.85, color='black')
-            path = f'results/heat_maps_with_bar_{effect_type}{"_sorted" if do_sort else ""}'
+            path = f'results_test/heat_maps_with_bar_{effect_type}{"_sorted" if do_sort else ""}'
             if not os.path.exists(path):
                 os.makedirs(path)
             fname = f'{path}/{source}_{model_version}_{filter}_{suffix}.pdf'

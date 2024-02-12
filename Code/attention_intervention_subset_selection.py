@@ -9,7 +9,7 @@ from tqdm import tqdm  # tqdm_notebook as tqdm
 from transformers import AutoTokenizer
 
 from attention_intervention_winobias import get_interventions_winobias
-from attention_intervention_winogender import get_interventions_winogender
+# from attention_intervention_winogender import get_interventions_winogender
 from attention_utils import perform_interventions
 from experiment import Model
 
@@ -86,7 +86,7 @@ def top_k(k, interventions, mean_effect, model, model_type, data, out_dir):
 
 		json_data['val'].append(mean_effect1)
 		json_data['head'].append((res[:,0][0], res[:,1][0]))
-		pickle.dump(json_data, open(out_dir + "/topk_" + model_type + "_" + data + ".pickle", "wb" ))
+		pickle.dump(json_data, open(out_dir + "/topk_" + "german_gpt2" + "_" + data + ".pickle", "wb" ))
 
 def get_all_contrib(model_type, model, tokenizer, interventions, data, out_dir):
 	json_data = {}
@@ -105,13 +105,13 @@ def get_all_contrib(model_type, model, tokenizer, interventions, data, out_dir):
 	mean_effect = effect.mean(axis=0)
 	json_data['mean_effect_head'] = mean_effect
 
-	pickle.dump(json_data, open(out_dir + "/mean_effect_" + model_type + "_" + data + ".pickle", "wb" ))
+	pickle.dump(json_data, open(out_dir + "/mean_effect_" + "german_gpt2" + "_" + data + ".pickle", "wb" ))
 	return mean_effect
 
 
 def greedy(k, interventions, model, model_type, data, out_dir):
 	
-	greedy_filename = out_dir + "/greedy_" + model_type + "_" + data + ".pickle"
+	greedy_filename = out_dir + "/greedy_" + "german_gpt2" + "_" + data + ".pickle"
 
 	if os.path.exists(greedy_filename):
 		print('loading precomputed greedy values')
@@ -150,7 +150,7 @@ def greedy(k, interventions, model, model_type, data, out_dir):
 		layer_list.append(res[:,0][0])
 		heads_list.append(res[:,1][0])
 
-		pickle.dump(json_data_inter, open(out_dir + "/greedy_intermediate_" + model_type + "_" + data + ".pickle", "wb" ))
+		pickle.dump(json_data_inter, open(out_dir + "/greedy_intermediate_" + "german_gpt2" + "_" + data + ".pickle", "wb" ))
 
 		json_data['val'] = obj_list_gr
 		json_data['head'] = [i for i in zip(layer_list, heads_list)]
