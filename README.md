@@ -17,6 +17,6 @@ Schweter, S. (2021a, August). German gpt-2 model. Retrieved from https://github.
 
 Schweter, S. (2021b, September). German gpt-2 model. Retrieved from https://huggingface.co/stefan-it/german-gpt2-larger ([Online; accessed 09-January-2024])
 
-Vig, J., Gehrmann, S., Belinkov, Y., Qian, S., Nevo, D., Sakenis, S., . . . Shieber, S. (2020). Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias.
+Vig, J., Gehrmann, S., Belinkov, Y., Qian, S., Nevo, D., Sakenis, S., Huang, J., Singer, Y., & Shieber, S. (2020). Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias. (arXiv:2004.12265)
 
 Zhao, J., Wang, T., Yatskar, M., Ordonez, V., & Chang, K.-W. (2018, June). Gender bias in coreference resolution: Evaluation and debiasing methods. In Proceedings of the 2018 conference of the north American chapter of the association for computational linguistics: Human language technologies, volume 2 (short papers) (pp. 15–20). New Orleans, Louisiana: Association for Computational Linguistics. 
